@@ -895,3 +895,8 @@ a {
 .callout-signup {
   transform: translateY(5rem);
 }
+
+.testimg {
+  width: 10rem;
+  height: 3.2rem;
+}
